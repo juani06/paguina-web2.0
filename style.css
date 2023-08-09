@@ -1,0 +1,71 @@
+#nave{
+margin-bottom:5%;
+border: 1px solid black;
+
+}
+body{background-image:url(https://i.pinimg.com/originals/60/70/89/6070896c5969d9b6d56737376062099a.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;}
+.bg-light{
+    background-color: rgba(rgba(255, 255, 255, 0.212), rgba(255, 255, 255, 0.212), rgba(255, 255, 255, 255, 0.212),)!important;
+}
+.card{
+    display:inline-block;
+    margin-left: 15px;
+    background-color: beige;
+}
+.card:hover{
+    background-color: yellow;
+}
+/* .choripanes{
+    border: 1px black solid;
+} */
+
+.center{
+    text-align: center;
+}
+#hamburguesas{
+    margin-top: 3%;
+}
+.no{
+    color: transparent;
+}
+header{
+    position: fixed;
+    margin-top: -10px;
+    background-color: gray;
+    margin-left: -8PX;
+    padding: 1px;
+    margin-top: -41PX;
+    padding-left: 15px;
+    color: white;
+    width: 100%;}
+
+   nav{
+   background: #2D787B; 
+   margin-left: -8px;
+   padding-left: 15px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   border-top-color: white;
+   border-top-width: 3px;
+   border-top-style: solid;
+   position: fixed;
+   margin-top: 35px;
+   width: 100%;
+}
+.card-img-top{
+    border-top-left-radius: 0%;
+    border-top-right-radius: 0%;
+}
+.piza{
+    height: 5cm;
+}
+#footer{
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+.texto{
+    text-align: end;
+}
